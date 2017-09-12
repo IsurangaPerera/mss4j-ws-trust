@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/identity-inbound-auth-sts.iml" filepath="$PROJECT_DIR$/identity-inbound-auth-sts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.sts.cxf/org.wso2.carbon.sts.cxf.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.sts.cxf/org.wso2.carbon.sts.cxf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.sts.provider/org.wso2.carbon.sts.provider.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.sts.provider/org.wso2.carbon.sts.provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.sts.resource/org.wso2.carbon.sts.resource.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.sts.resource/org.wso2.carbon.sts.resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.sts.samples/org.wso2.carbon.sts.samples.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.sts.samples/org.wso2.carbon.sts.samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.sts.security.provider/org.wso2.carbon.sts.security.provider.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.sts.security.provider/org.wso2.carbon.sts.security.provider.iml" />
+    </modules>
+  </component>
+</project>

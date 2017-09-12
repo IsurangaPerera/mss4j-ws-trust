@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="org.wso2.carbon.sts.cxf" />
+        <module name="org.wso2.carbon.sts.provider" />
+        <module name="org.wso2.carbon.sts.resource" />
+        <module name="org.wso2.carbon.sts.samples" />
+        <module name="org.wso2.carbon.sts.security.provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="identity-inbound-auth-sts" target="1.8" />
+      <module name="org.wso2.carbon.sts.cxf" target="1.8" />
+      <module name="org.wso2.carbon.sts.provider" target="1.8" />
+      <module name="org.wso2.carbon.sts.resource" target="1.8" />
+      <module name="org.wso2.carbon.sts.samples" target="1.8" />
+      <module name="org.wso2.carbon.sts.security.provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
